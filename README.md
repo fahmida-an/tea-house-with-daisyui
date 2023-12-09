@@ -1,0 +1,1 @@
+## Technologies: HTML, TAILWINDCSS, DAISYUI
